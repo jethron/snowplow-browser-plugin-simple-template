@@ -18,7 +18,7 @@
     "dist"
   ],
   "scripts": {
-    "build": "rollup -c --failAfterWarnings",
+    "prepare": "rollup -c --failAfterWarnings",
     "test": "jest"
   },
   "dependencies": {

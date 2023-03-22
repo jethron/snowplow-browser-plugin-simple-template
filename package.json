@@ -1,8 +1,8 @@
 {
   "private": true,
-  "name": "snowplow-browser-plugin-advanced-template",
+  "name": "snowplow-browser-plugin-simple-template",
   "version": "1.0.0",
-  "description": "Advanced Template for a plugin for the Snowplow JavaScript Trackers",
+  "description": "Simple Template for a plugin for the Snowplow JavaScript Trackers",
   "homepage": "http://bit.ly/sp-js",
   "bugs": "https://github.com/snowplow/snowplow-javascript-tracker/issues",
   "repository": {
